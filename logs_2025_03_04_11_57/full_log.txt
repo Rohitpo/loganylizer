@@ -1,0 +1,72 @@
+Serial connection opened.
+Sent reset command: reset
+Device response: ->
+[2025-03-04 11:58:41] -
+Sent reset command: reset
+Device response: -- 
+[2025-03-04 11:58:50] >
+Sent reset command: reset
+Device response: 
+[2025-03-04 11:59:13] -->
+[2025-03-04 11:59:59] 960591 i v mod: power = 6.626303
+[2025-03-04 11:59:59] 9960592 i v mod: currActivePowerint = 6
+[2025-03-04 12:01:59] 10080593 i v mod: power = 6.680898
+[2025-03-04 12:01:59] 10080594 i v mod: currActivePowerint = 6
+[2025-03-04 12:03:59] 10200596 i v mod: power = 6.680898
+[2025-03-04 12:03:59] 10200597 i v mod: currActivePowerint = 6
+[2025-03-04 12:05:59] 10320598 i v mod: power = 6.680898
+[2025-03-04 12:05:59] 10320599 i v mod: currActivePowerint = 6
+[2025-03-04 12:07:59] 10440600 i v mod: power = 6.475482
+[2025-03-04 12:07:59] 10440601 i v mod: currActivePowerint = 6
+[2025-03-04 12:09:59] 10560602 i v mod: power = 6.475482
+[2025-03-04 12:09:59] 10560603 i v mod: currActivePowerint = 6
+[2025-03-04 12:11:59] 10680604 i v mod: power = 6.475482
+[2025-03-04 12:11:59] 10680605 i v mod: currActivePowerint = 6
+[2025-03-04 12:13:59] 10800606 i v mod: power = 6.535803
+[2025-03-04 12:13:59] 10800607 i v mod: currActivePowerint = 6
+[2025-03-04 12:15:59] 10920608 i v mod: power = 6.535803
+[2025-03-04 12:15:59] 10920609 i v mod: currActivePowerint = 6
+[2025-03-04 12:17:59] 11040610 i v mod: power = 6.535803
+[2025-03-04 12:17:59] 11040611 i v mod: currActivePowerint = 6
+[2025-03-04 12:19:59] 11160612 i v mod: power = 6.585173
+[2025-03-04 12:19:59] 11160613 i v mod: currActivePowerint = 6
+[2025-03-04 12:21:59] 11280614 i v mod: power = 6.585173
+[2025-03-04 12:21:59] 11280615 i v mod: currActivePowerint = 6
+[2025-03-04 12:23:59] 11400616 i v mod: power = 6.585173
+[2025-03-04 12:23:59] 11400617 i v mod: currActivePowerint = 6
+Sent reset command: reset
+Device response: -- 
+[2025-03-04 12:25:09] >
+[2025-03-04 12:25:59] 1520618 i v mod: power = 6.898144
+[2025-03-04 12:25:59] 11520619 i v mod: currActivePowerint = 6
+[2025-03-04 12:27:59] 11640620 i v mod: power = 6.898144
+[2025-03-04 12:27:59] 11640621 i v mod: currActivePowerint = 6
+[2025-03-04 12:29:59] 11760622 i v mod: power = 6.898144
+[2025-03-04 12:29:59] 11760623 i v mod: currActivePowerint = 6
+[2025-03-04 12:31:59] 11880624 i v mod: power = 6.898144
+[2025-03-04 12:31:59] 11880625 i v mod: currActivePowerint = 6
+[2025-03-04 12:33:59] 12000626 i v mod: power = 6.898144
+[2025-03-04 12:33:59] 12000627 i v mod: currActivePowerint = 6
+[2025-03-04 12:35:59] 12120628 i v mod: power = 6.747631
+[2025-03-04 12:35:59] 12120629 i v mod: currActivePowerint = 6
+[2025-03-04 12:37:59] 12240631 i v mod: power = 6.500958
+[2025-03-04 12:37:59] 12240631 i v mod: currActivePowerint = 6
+[2025-03-04 12:39:59] 12360632 i v mod: power = 6.375370
+[2025-03-04 12:39:59] 12360633 i v mod: currActivePowerint = 6
+[2025-03-04 12:41:59] 12480635 i v mod: power = 6.535493
+[2025-03-04 12:41:59] 12480635 i v mod: currActivePowerint = 6
+[2025-03-04 12:43:59] 12600637 i v mod: power = 6.756623
+[2025-03-04 12:43:59] 12600638 i v mod: currActivePowerint = 6
+[2025-03-04 12:45:59] 12720639 i v mod: power = 6.756623
+[2025-03-04 12:45:59] 12720640 i v mod: currActivePowerint = 6
+[2025-03-04 12:47:59] 12840641 i v mod: power = 6.704286
+[2025-03-04 12:47:59] 12840642 i v mod: currActivePowerint = 6
+[2025-03-04 12:49:59] 12960643 i v mod: power = 6.704286
+[2025-03-04 12:49:59] 12960644 i v mod: currActivePowerint = 6
+[2025-03-04 12:51:59] 13080645 i v mod: power = 6.704286
+[2025-03-04 12:51:59] 13080646 i v mod: currActivePowerint = 6
+[2025-03-04 12:53:59] 13200647 i v mod: power = 6.727603
+[2025-03-04 12:53:59] 13200648 i v mod: currActivePowerint = 6
+[2025-03-04 12:55:59] 13320651 i v mod: power = 6.727603
+[2025-03-04 12:55:59] 13320652 i v mod: currActivePowerint = 6
+

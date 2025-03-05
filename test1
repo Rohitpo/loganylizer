@@ -1,0 +1,60 @@
+reset
+13:37:05.682 i s conf: Ayla Agent requested reset
+13:37:05.692 E c mqtt: mc (id=0) mqtt_client_abort_err: err 12
+13:37:05.693 E c mqtt: MQTT V1: client error: conn abrt
+13:37:05.693 W c client: MQTT down event: state=CS_WAIT_EVENT
+13:37:05.704 i c mod: net_status disconnected
+13:37:05.706 i c client: disabling log client
+13:37:05.708 W c client: MQTT down event: state=CS_DOWN
+xESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x29 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4037f33a
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3980,len:0x2614
+load:0x403c9700,len:0x4
+load:0x403c9704,len:0xcbc
+load:0x403cc700,len:0x4420
+entry 0x403c9914
+I (38) boot: ESP-IDF v5.2.2-volt-2-dirty 2nd stage bootloader
+I (38) boot: compile time Jan 19 2025 23:23:25
+I (38) boot: Multicore bootloader
+I (39) boot: chip revision: v0.2
+I (42) boot.esp32s3: Boot SPI Speed : 80MHz
+I (46) boot.esp32s3: SPI Mode       : DIO
+I (50) boot.esp32s3: SPI Flash Size : 8MB
+I (53) boot: Enabling RNG early entropy source...
+I (58) boot: Partition Table:
+I (61) boot: ## Label            Usage          Type ST Offset   Length
+I (67) boot:  0 phy_init         RF data          01 01 00010000 00001000
+I (73) boot:  1 otadata          OTA data         01 00 00011000 00002000
+I (80) boot:  2 nvs              WiFi data        01 02 00013000 00060000
+I (86) boot:  3 nvs_state        WiFi data        01 02 000df000 00010000
+I (93) boot:  4 log_snap         WiFi data        01 02 000ef000 00010000
+I (99) boot:  5 nvs_keys         NVS keys         01 04 000ff000 00001000
+I (106) boot:  6 ota_0            OTA app          00 10 00100000 00200000
+I (113) boot:  7 ota_1            OTA app          00 11 00300000 00200000
+I (119) boot:  8 mcu-ota          Unknown data     01 06 00500000 00070000
+I (126) boot:  9 coredump         Unknown data     01 03 00570000 00010000
+I (132) boot: 10 volt-fix         Unknown data     01 06 00580000 00200000
+I (139) boot: 11 nvs_id           WiFi data        01 02 007fd000 00002000
+I (146) boot: 12 nvs_id_keys      NVS keys         01 04 007ff000 00001000
+I (152) boot: End of partition table
+I (156) esp_image: segment 0: paddr=00300020 vaddr=3c150020 size=505b0h (329136) map
+I (229) esp_image: segment 1: paddr=003505d8 vaddr=3fc9e200 size=085f8h ( 34296) load
+I (237) esp_image: segment 2: paddr=00358bd8 vaddr=40374000 size=07440h ( 29760) load
+I (244) esp_image: segment 3: paddr=00360020 vaddr=42000020 size=14307ch (1323132) map
+I (509) esp_image: segment 4: paddr=004a30a4 vaddr=4037b440 size=12d20h ( 77088) load
+I (539) boot: Loaded app from partition at offset 0x300000
+I (539) boot: Checking flash encryption...
+I (539) flash_encrypt: flash encryption is enabled (1 plaintext flashes left)
+I (543) boot: Disabling RNG early entropy source...
+
+
+volt_transformer 1.0.14_rc11_ota-DEV 2025-02-28 16:45:42 7222d747+
+CLI ready.
+--> 2025-03-03T13:37:08.177 i m client: ADA 3.2.3 esp-idf-v5.2.2-volt-4 2025-01-28 13:57:05 38b91b1592
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x8 (TG1WDT_SYS_RST),boot:0x29 (SPI_FAST_FLASH_BOOT)
